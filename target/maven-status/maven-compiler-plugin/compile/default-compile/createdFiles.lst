@@ -1,0 +1,10 @@
+com/agenda/dv/controller/PersonController.class
+com/agenda/dv/repository/PersonRepository.class
+com/agenda/dv/config/MiConfiguracion.class
+com/agenda/dv/model/domain/Person.class
+com/agenda/dv/service/PersonService.class
+com/agenda/dv/model/PersonListDto.class
+com/agenda/dv/service/impl/PersonServiceImpl.class
+com/agenda/dv/DavidApplication.class
+com/agenda/dv/model/PersonCreateDto.class
+com/agenda/dv/converter/DtoConverter.class
